@@ -3,11 +3,7 @@ require "koneksi.php";
 require "fungsi.php";
 $query = "SELECT * FROM mahasiswa";
 $mahasiswa = query($query);
-
-
-
 ?>
-
 
 <!DOCTYPE html>
 <html lang="en">
